@@ -1,16 +1,14 @@
-# gotemplate
+# deepcopymacro
 
-[![Go](https://github.com/tdakkota/gotemplate/workflows/Go/badge.svg)](https://github.com/tdakkota/gotemplate/actions)
-[![Documentation](https://godoc.org/github.com/tdakkota/gotemplate?status.svg)](https://pkg.go.dev/github.com/tdakkota/gotemplate)
-[![codecov](https://codecov.io/gh/tdakkota/gotemplate/branch/master/graph/badge.svg)](https://codecov.io/gh/tdakkota/gotemplate)
-[![license](https://img.shields.io/github/license/tdakkota/gotemplate.svg?maxAge=2592000)](https://github.com/tdakkota/gotemplate/blob/master/LICENSE)
+[![Go](https://github.com/tdakkota/deepcopymacro/workflows/Go/badge.svg)](https://github.com/tdakkota/deepcopymacro/actions)
+[![Documentation](https://godoc.org/github.com/tdakkota/deepcopymacro?status.svg)](https://pkg.go.dev/github.com/tdakkota/deepcopymacro)
+[![codecov](https://codecov.io/gh/tdakkota/deepcopymacro/branch/master/graph/badge.svg)](https://codecov.io/gh/tdakkota/deepcopymacro)
+[![license](https://img.shields.io/github/license/tdakkota/deepcopymacro.svg?maxAge=2592000)](https://github.com/tdakkota/deepcopymacro/blob/master/LICENSE)
 
-REPLACE ME!
+Deep copy function generator.
 
 ## Install
 ```
-go get github.com/tdakkota/gotemplate
+go get github.com/tdakkota/deepcopymacro
 ```
 
-## Example 
-REPLACE ME!
